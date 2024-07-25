@@ -1,0 +1,22 @@
+patch.linewidth : 2
+patch.antialiased : True
+
+font.weight : bold
+
+lines.linewidth : 3
+lines.markersize : 10
+
+xtick.labelsize : 16
+ytick.labelsize : 16
+
+axes.titlesize : 20
+axes.titleweight : bold
+axes.labelsize : 18
+axes.linewidth : 2
+axes.labelweight : bold
+
+legend.fontsize : 14
+legend.title_fontsize : 15
+
+figure.titlesize : 20
+figure.titleweight : bold
